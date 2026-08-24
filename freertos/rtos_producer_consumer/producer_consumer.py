@@ -57,4 +57,5 @@ for cycle in range(5):
     print(f"\n--- Cycle {cycle} ---")
 
     producer.produce()
+    #producer.produce()
     consumer.consume()
