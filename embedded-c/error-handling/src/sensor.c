@@ -12,7 +12,7 @@ Status sensor_read(int *temperature)
      * Simulate successful sensor communication
      */
 
-    //*temperature = 27;
+    *temperature = 27;
 
     //return STATUS_OK;
 
