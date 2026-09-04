@@ -9,7 +9,7 @@ int main(void)
 
     Status status = sensor_read(&temperature);
 
-    if (status == STATUS_OK)
+    if (status == ERROR_TIMEOUT)
     {
         printf("Sensor temperature: %d C\n", temperature);
     }
