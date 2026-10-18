@@ -1,0 +1,3 @@
+D:/embedded-systems/embedded-c/modular_embedded_architecture/build/CMakeFiles/c10_demo.dir
+D:/embedded-systems/embedded-c/modular_embedded_architecture/build/CMakeFiles/edit_cache.dir
+D:/embedded-systems/embedded-c/modular_embedded_architecture/build/CMakeFiles/rebuild_cache.dir
