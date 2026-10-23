@@ -1,0 +1,5 @@
+PASS: normal battery reading
+PASS: maximum boundary
+PASS: upper clamp
+PASS: zero input
+ALL TESTS PASSED

@@ -1,0 +1,14 @@
+[BOOT] System booted
+[INFO] UART ready
+[INFO] CAN controller initialized
+[TELEMETRY] seq=100 battery=7420
+[TELEMETRY] seq=101 battery=7418
+[WARN] Battery voltage falling
+[TELEMETRY] seq=102 battery=7401
+[ERROR] IMU read timeout
+[INFO] IMU retry=1
+[INFO] IMU recovered
+[WARN] Packet retry count high
+[ERROR] CAN transmit timeout
+[FAULT] Communication watchdog expired
+[BOOT] System rebooted

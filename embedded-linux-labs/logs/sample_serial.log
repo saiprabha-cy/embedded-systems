@@ -1,0 +1,9 @@
+[BOOT] Firmware starting
+[INFO] Clock initialized
+[INFO] UART initialized at 115200 baud
+[TELEMETRY] seq=1 temp=25.34 battery=7420
+[TELEMETRY] seq=2 temp=25.36 battery=7418
+[WARN] Battery voltage falling
+[ERROR] Sensor timeout
+[INFO] Recovery attempt started
+[INFO] Sensor recovered
